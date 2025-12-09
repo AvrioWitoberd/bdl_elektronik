@@ -4,7 +4,7 @@ $host = 'localhost';
 $port = '5433'; // sesuai hasil test_db.php lo ✅
 $dbname = 'aplikasi_service_elektronik';
 $username = 'postgres';
-$password = '12345678';
+$password = 'sekiro25';
 
 try {
     $pdo = new PDO(
